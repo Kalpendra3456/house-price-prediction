@@ -1,0 +1,51 @@
+builder_id,builder_name,builder_type,founded_year,experience_years,projects_completed,headquarters_city,state,builder_rating,total_units_delivered,specialization,average_project_cost,active_projects,employee_count
+1,ATS Infrastructure,Premium,1991,35,87,Chennai,Telangana,3.8,8531,Commercial,262981839,29,2994
+2,Kolte Patil,Luxury,2008,18,67,Bangalore,Delhi,3.5,30993,Township,87259805,9,204
+3,Shapoorji Pallonji,Mid-Range,1992,34,88,Mumbai,Delhi,3.7,15468,Residential,115686409,18,6451
+4,Kolte Patil,Premium,1996,30,160,Gurgaon,Uttar Pradesh,4.8,29915,Township,394810054,5,6687
+5,Oberoi Realty,Luxury,2001,25,123,Delhi,Telangana,3.9,38790,Commercial,341180808,28,3752
+6,Runwal Group,Mid-Range,2014,12,122,Mumbai,Maharashtra,3.6,15111,Commercial,246319351,13,5578
+7,ATS Infrastructure,Premium,2002,24,83,Mumbai,Tamil Nadu,3.8,17768,Township,366721081,14,339
+8,ATS Infrastructure,Premium,2015,11,132,Gurgaon,Tamil Nadu,4.2,14139,Commercial,382487296,14,3776
+9,DLF Ltd,Mid-Range,2010,16,51,Pune,Tamil Nadu,4,33919,Mixed Use,381863367,23,574
+10,Runwal Group,Premium,2000,26,32,Gurgaon,Delhi,4.4,35928,Commercial,194722895,5,8657
+11,Hiranandani Group,Mid-Range,1992,34,143,Hyderabad,Karnataka,4.9,40950,Township,333657153,13,6863
+12,Mahindra Lifespaces,Mid-Range,2012,14,175,Ahmedabad,Uttar Pradesh,3.5,37377,Township,260377433,30,2539
+13,Kolte Patil,Luxury,1991,35,146,Mumbai,Gujarat,5,4750,Mixed Use,72913875,15,5371
+14,Prestige Group,Premium,1988,38,132,Hyderabad,Karnataka,4.2,25166,Mixed Use,183354405,18,9347
+15,Puravankara,Premium,2000,26,186,Gurgaon,Maharashtra,3.8,13200,Residential,269614338,14,5795
+16,Oberoi Realty,Luxury,1994,32,115,Gurgaon,Delhi,4.2,43797,Mixed Use,294415538,7,3000
+17,ATS Infrastructure,Premium,1995,31,103,Hyderabad,Uttar Pradesh,4.8,43241,Residential,134463327,16,6845
+18,Runwal Group,Mid-Range,2001,25,70,Mumbai,Tamil Nadu,4.6,22235,Township,487780635,27,790
+19,Lodha Group,Premium,1998,28,183,Gurgaon,Telangana,3.7,34289,Township,102179834,2,672
+20,Kolte Patil,Luxury,1996,30,113,Pune,Tamil Nadu,4.4,44806,Commercial,361605648,7,4869
+21,Rustomjee,Premium,1995,31,157,Gurgaon,Uttar Pradesh,3.7,25491,Township,364787818,8,3928
+22,Brigade Group,Mid-Range,1993,33,106,Delhi,Karnataka,4,45824,Mixed Use,383209650,30,2285
+23,Sobha Ltd,Mid-Range,2011,15,177,Noida,West Bengal,4.8,5832,Residential,254362825,29,7371
+24,Prestige Group,Premium,1989,37,170,Pune,Maharashtra,4.3,16988,Township,460037150,13,416
+25,Lodha Group,Premium,1985,41,109,Noida,Tamil Nadu,4.3,46362,Commercial,169532039,25,4482
+26,Oberoi Realty,Premium,1996,30,94,Mumbai,Tamil Nadu,3.6,19708,Commercial,394412976,10,2644
+27,Runwal Group,Mid-Range,1993,33,87,Kolkata,Delhi,4.8,39329,Township,407888420,4,5591
+28,Paras Buildtech,Luxury,1983,43,162,Noida,Maharashtra,4.7,37902,Residential,134722749,15,8563
+29,Paras Buildtech,Luxury,1991,35,52,Pune,West Bengal,3.9,47699,Township,214759475,25,6663
+30,Godrej Properties,Mid-Range,1987,39,163,Ahmedabad,Karnataka,4.6,39238,Township,326605766,21,9066
+31,Hiranandani Group,Premium,2012,14,135,Ahmedabad,Tamil Nadu,4.4,43810,Commercial,290237304,5,3248
+32,Sobha Ltd,Premium,1988,38,153,Pune,Karnataka,4.4,18623,Commercial,292845603,14,5881
+33,Kolte Patil,Premium,1986,40,87,Bangalore,Tamil Nadu,3.8,14640,Mixed Use,157587370,5,5759
+34,Rustomjee,Mid-Range,2017,9,143,Bangalore,Tamil Nadu,4.6,15446,Mixed Use,161602196,17,6367
+35,DLF Ltd,Premium,2013,13,186,Pune,Gujarat,4.2,1679,Commercial,122794568,21,4157
+36,Paras Buildtech,Luxury,1991,35,48,Chennai,Delhi,4.5,10154,Residential,309040147,20,6086
+37,Runwal Group,Luxury,1998,28,89,Gurgaon,West Bengal,4.8,6806,Mixed Use,120341241,30,5766
+38,Tata Housing,Luxury,1982,44,58,Chennai,Maharashtra,3.6,38256,Mixed Use,475142150,7,1791
+39,Supertech,Mid-Range,1999,27,105,Bangalore,Uttar Pradesh,4.1,5559,Mixed Use,154544911,17,6702
+40,Godrej Properties,Mid-Range,2013,13,67,Delhi,Delhi,3.9,41082,Residential,225674243,7,369
+41,Shapoorji Pallonji,Luxury,1996,30,52,Pune,Tamil Nadu,3.6,26040,Commercial,250553126,24,8330
+42,Hiranandani Group,Luxury,2012,14,195,Gurgaon,Delhi,3.9,10743,Residential,418426748,15,658
+43,Lodha Group,Premium,1999,27,140,Pune,Karnataka,5,10245,Mixed Use,351908825,18,8560
+44,Kolte Patil,Luxury,2010,16,159,Pune,Delhi,4.4,9873,Residential,435548299,13,6149
+45,Supertech,Premium,1995,31,188,Noida,Gujarat,4.7,48080,Commercial,96858499,11,7301
+46,Shapoorji Pallonji,Premium,2018,8,127,Bangalore,Karnataka,3.7,37280,Mixed Use,66795679,6,3431
+47,Hiranandani Group,Premium,1994,32,139,Hyderabad,Karnataka,3.9,29729,Residential,466063746,17,3266
+48,Brigade Group,Premium,2002,24,84,Delhi,Karnataka,3.9,7932,Residential,352568062,10,9227
+49,Brigade Group,Premium,1985,41,157,Kolkata,West Bengal,4.4,26788,Township,424653200,14,8201
+50,Puravankara,Luxury,2011,15,183,Ahmedabad,Uttar Pradesh,3.9,45026,Township,213753518,18,5655

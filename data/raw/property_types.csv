@@ -1,0 +1,21 @@
+PropertyTypeID,PropertyType,Category,MinAreaSqFt,MaxAreaSqFt,Bedrooms,Bathrooms,ParkingSpaces,FurnishingStatus,ConstructionType,AveragePricePerSqFt,MaintenanceCost,DemandLevel,RentalYieldPercent
+PT001,Apartment,Residential,1282,1906,1,4,0,Semi-Furnished,RCC,22819,4564,Medium,5.2
+PT002,Villa,Residential,857,4983,3,2,2,Fully Furnished,Brick,4311,12071,Low,2.6
+PT003,Independent House,Residential,727,3416,5,3,0,Unfurnished,Brick,21294,13437,High,7.6
+PT004,Penthouse,Commercial,768,3776,4,2,1,Fully Furnished,Brick,13014,6256,Very High,4.2
+PT005,Studio Apartment,Commercial,1823,3606,3,1,1,Fully Furnished,RCC,12659,9550,Very High,3.9
+PT006,Duplex,Industrial,1018,1801,1,5,3,Unfurnished,Steel Frame,7552,8361,Medium,4.0
+PT007,Row House,Industrial,1840,4427,6,3,2,Fully Furnished,Brick,24619,1370,Very High,6.1
+PT008,Farm House,Industrial,594,1853,6,4,3,Semi-Furnished,Steel Frame,13738,13350,Low,4.0
+PT009,Builder Floor,Residential,862,5634,2,1,1,Fully Furnished,Steel Frame,17246,9070,Low,6.2
+PT010,Residential Plot,Industrial,1125,5725,5,4,0,Fully Furnished,Precast,5603,9748,Very High,8.3
+PT011,Commercial Office,Commercial,1757,5118,3,1,3,Unfurnished,Precast,10543,12718,Medium,5.5
+PT012,Retail Shop,Residential,918,5541,6,2,3,Unfurnished,Steel Frame,21365,13343,Very High,4.4
+PT013,Warehouse,Commercial,1970,3567,4,4,0,Unfurnished,Brick,13985,9123,Low,3.8
+PT014,Industrial Unit,Residential,883,2615,5,2,2,Semi-Furnished,Brick,21631,10746,Very High,4.7
+PT015,Co-working Space,Residential,976,4761,5,4,0,Fully Furnished,Steel Frame,4601,8525,Low,7.6
+PT016,Luxury Villa,Industrial,1867,5840,1,4,4,Unfurnished,Steel Frame,18804,6124,High,5.4
+PT017,Service Apartment,Residential,1472,2178,6,4,0,Semi-Furnished,Precast,14766,11085,High,5.5
+PT018,Townhouse,Commercial,598,3638,6,2,0,Semi-Furnished,Steel Frame,21994,3625,Medium,7.8
+PT019,Condominium,Industrial,1590,4450,3,5,1,Fully Furnished,Precast,22753,7534,Low,5.1
+PT020,Mixed Use Property,Industrial,701,4842,5,3,2,Fully Furnished,RCC,2806,9560,Medium,7.5

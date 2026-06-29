@@ -1,0 +1,41 @@
+amenity_id,amenity_name,category,monthly_maintenance_cost,installation_cost,popularity_score,indoor_outdoor,premium_amenity,usage_level,status
+1,Swimming Pool,Utility,1255,2644780,4.2,Outdoor,No,Medium,Available
+2,Gym,Sports,4131,4063659,3.1,Indoor,No,Low,Available
+3,Club House,Green,2464,1580875,3.1,Indoor,No,Medium,Available
+4,Children Play Area,Security,2756,3077128,3.4,Outdoor,Yes,High,Available
+5,Jogging Track,Sports,176,2088340,4.4,Indoor,No,Low,Available
+6,Garden,Recreation,3916,3904968,3.8,Outdoor,Yes,High,Available
+7,Tennis Court,Sports,954,1110272,3.3,Indoor,Yes,High,Available
+8,Basketball Court,Utility,994,4618809,4.9,Indoor,Yes,Low,Available
+9,Badminton Court,Utility,4969,4337364,3.1,Outdoor,Yes,Low,Available
+10,Cricket Ground,Sports,2037,4321091,3.3,Outdoor,No,Low,Available
+11,Library,Utility,504,4722799,4.2,Indoor,Yes,Low,Available
+12,Spa,Security,2894,3985134,3.2,Outdoor,No,High,Available
+13,Yoga Center,Security,3142,1729186,3,Outdoor,Yes,Low,Available
+14,Indoor Games,Utility,4493,150046,4,Outdoor,No,Medium,Available
+15,Party Hall,Sports,2370,2243590,3.9,Outdoor,Yes,High,Available
+16,Amphitheater,Recreation,3522,1589188,4.6,Indoor,Yes,High,Available
+17,Power Backup,Recreation,3551,3188838,4.4,Indoor,No,High,Available
+18,24x7 Security,Lifestyle,3355,2293123,3.7,Outdoor,No,Medium,Available
+19,CCTV Surveillance,Recreation,2674,2520169,3.8,Outdoor,Yes,Low,Available
+20,Lift,Sports,212,3861492,4.6,Indoor,Yes,High,Available
+21,Visitor Parking,Sports,4312,367365,3.5,Outdoor,No,Low,Available
+22,Covered Parking,Utility,2164,3752600,3.6,Outdoor,Yes,Medium,Available
+23,EV Charging Station,Sports,1942,2204111,3.2,Outdoor,Yes,High,Available
+24,WiFi,Green,4154,3579144,4.3,Outdoor,Yes,Low,Available
+25,Mini Theatre,Utility,928,3137000,4.3,Indoor,Yes,Low,Available
+26,Shopping Complex,Recreation,270,1517679,4.7,Indoor,No,Low,Available
+27,ATM,Lifestyle,4946,605891,3.9,Indoor,No,Low,Available
+28,Medical Center,Utility,3590,4566469,4.9,Indoor,No,Medium,Available
+29,Pet Park,Utility,1664,782042,4.1,Outdoor,No,Medium,Available
+30,Business Center,Lifestyle,2046,1444767,3.3,Outdoor,No,High,Available
+31,Conference Room,Lifestyle,4989,845181,4.9,Outdoor,Yes,High,Available
+32,Rooftop Lounge,Utility,4308,3389690,3.8,Indoor,No,High,Available
+33,Sky Deck,Green,669,2940539,3.6,Outdoor,Yes,Medium,Available
+34,Rainwater Harvesting,Sports,2088,3324611,3.3,Indoor,No,Low,Available
+35,Solar Power,Utility,841,3618806,3.2,Indoor,Yes,Low,Available
+36,Fire Safety,Green,3610,2414000,3,Outdoor,No,Low,Available
+37,Intercom,Sports,3350,1242571,3.5,Indoor,No,Medium,Available
+38,Gated Community,Sports,1010,4329204,3.3,Indoor,No,Medium,Available
+39,Banquet Hall,Lifestyle,3371,2008854,4.9,Indoor,No,High,Available
+40,Food Court,Green,2328,1589932,3.1,Outdoor,No,Medium,Available
